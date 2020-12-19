@@ -2,7 +2,7 @@
   <section>
     <div>
       <Logo :width="350" />
-      <h1 class="title">🥳</h1>
+      <h1 class="title">🥳test</h1>
       <h2 class="subtitle">Starter for CodeSandBox</h2>
       <div class="links">
         <NLink to="/about" class="button--grey">About</NLink>
